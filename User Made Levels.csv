@@ -1,0 +1,450 @@
+0,,,,,,,,
+0,,,,,,,,
+1,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+player,225,250,1,,,,,
+movingPlatform,675,750,275,300,cyan,675,1150,3
+platform,175,375,275,300,cyan,0,0,
+textBox,325,225,"Hello!\nWelcome to the Level editor,\nthis is the best place\n to make your own playable levels.\n Hours of fun",,,,,
+platform,302,348,258,275,cyan,0,0,
+platform,375,650,275,300,cyan,0,0,
+textBox,575,225,"The level editor\nuses the mouse to navigate arond,\nwith a drag on the middle click to pan.",,,,,
+platform,552,598,257,275,cyan,0,0,
+platform,1250,1500,275,300,cyan,0,0,
+textBox,1375,225,"Moving platforms are created by clicking\nwhere the top left point should be,\n then where the bottom right should be.\n Then finally the final x position\n of where the platform should stop\n it's movement.",,,,,
+platform,1352,1398,258,275,cyan,0,0,
+platform,1550,1600,250,275,cyan,0,0,
+platform,1675,1725,175,200,cyan,0,0,
+platform,1550,1600,75,100,cyan,0,0,
+platform,1675,1725,0,25,cyan,0,0,
+platform,1550,1600,-100,-75,cyan,0,0,
+platform,1675,2050,-175,-150,cyan,0,0,
+coin,375,250,,,,,,
+coin,400,250,,,,,,
+coin,425,250,,,,,,
+coin,450,250,,,,,,
+coin,475,250,,,,,,
+coin,500,250,,,,,,
+coin,525,250,,,,,,
+coin,525,225,,,,,,
+coin,500,225,,,,,,
+coin,475,225,,,,,,
+coin,450,225,,,,,,
+coin,425,225,,,,,,
+coin,400,225,,,,,,
+coin,375,225,,,,,,
+coin,400,200,,,,,,
+coin,400,175,,,,,,
+coin,500,200,,,,,,
+coin,500,175,,,,,,
+coin,475,175,,,,,,
+coin,475,200,,,,,,
+coin,450,200,,,,,,
+coin,450,175,,,,,,
+coin,425,175,,,,,,
+coin,425,200,,,,,,
+coin,425,150,,,,,,
+coin,425,125,,,,,,
+coin,450,125,,,,,,
+coin,450,150,,,,,,
+coin,475,150,,,,,,
+coin,475,125,,,,,,
+coin,450,100,,,,,,
+coin,450,75,,,,,,
+coin,700,250,,,,,,
+coin,725,250,,,,,,
+coin,750,250,,,,,,
+coin,775,250,,,,,,
+coin,800,250,,,,,,
+coin,825,250,,,,,,
+coin,850,250,,,,,,
+coin,875,250,,,,,,
+coin,900,250,,,,,,
+coin,925,250,,,,,,
+coin,950,250,,,,,,
+coin,975,250,,,,,,
+coin,1000,250,,,,,,
+coin,1025,250,,,,,,
+coin,1050,250,,,,,,
+coin,1075,250,,,,,,
+coin,1100,250,,,,,,
+coin,1125,250,,,,,,
+coin,1150,250,,,,,,
+coin,1175,250,,,,,,
+coin,1200,250,,,,,,
+coin,1575,225,,,,,,
+coin,1700,150,,,,,,
+coin,1575,50,,,,,,
+coin,1700,-25,,,,,,
+coin,1575,-125,,,,,,
+SC Grass 1,1700,-195,1,,,,,
+SC Grass 1,1725,-195,1,,,,,
+SC Grass 1,1750,-195,1,,,,,
+SC Grass 1,1775,-195,1,,,,,
+SC Grass 1,1800,-195,1,,,,,
+SC Grass 1,1825,-195,1,,,,,
+SC Grass 1,1850,-195,1,,,,,
+SC Grass 1,1875,-195,1,,,,,
+SC Grass 1,1900,-195,1,,,,,
+SC Grass 1,1925,-195,1,,,,,
+SC Grass 1,1950,-195,1,,,,,
+SC Grass 1,1975,-195,1,,,,,
+SC Grass 1,2000,-195,1,,,,,
+SC Grass 1,2025,-195,1,,,,,
+SC Grass 3,1775,-195,1,,,,,
+SC Grass 3,1950,-195,1,,,,,
+SC Grass 3,1850,-195,1,,,,,
+SC Long Grass 1,1900,-195,1,,,,,
+SC Long Grass 1,1725,-195,1,,,,,
+SC Apple,1800,-180,1,,,,,
+platform,2100,2175,-175,-150,cyan,0,0,
+platform,2275,2350,-175,-150,cyan,0,0,
+platform,2450,2525,-175,-150,cyan,0,0,
+SC Tree 3,2300,-235,1,,,,,
+SC Tree 2,2475,-235,1,,,,,
+SC Tree 1,2125,-235,1,,,,,
+SC Grass 1,2125,-195,1,,,,,
+SC Grass 1,2150,-195,1,,,,,
+SC Grass 1,2325,-195,1,,,,,
+SC Grass 1,2300,-195,1,,,,,
+SC Grass 1,2475,-195,1,,,,,
+SC Grass 1,2500,-195,1,,,,,
+SC Grass 4,2475,-195,1,,,,,
+SC Grass 4,2325,-195,1,,,,,
+SC Grass 4,2125,-195,1,,,,,
+platform,2575,2775,-175,-150,cyan,0,0,
+textBox,2650,-225,"You can find grass,\n trees and rocks in the scenary\n section of the drop down list.",,,,,
+platform,2627,2673,-192,-175,cyan,0,0,
+coin,2755,-329,,,,,,
+coin,2756,-322,,,,,,
+coin,2755,-316,,,,,,
+coin,2753,-311,,,,,,
+coin,2752,-306,,,,,,
+coin,2749,-299,,,,,,
+coin,2748,-296,,,,,,
+coin,2747,-294,,,,,,
+coin,2727,-336,,,,,,
+coin,2729,-336,,,,,,
+coin,2737,-333,,,,,,
+coin,2739,-332,,,,,,
+coin,2746,-332,,,,,,
+coin,2750,-330,,,,,,
+coin,2757,-330,,,,,,
+coin,2766,-331,,,,,,
+coin,2775,-332,,,,,,
+coin,2779,-333,,,,,,
+coin,2784,-334,,,,,,
+coin,2822,-337,,,,,,
+coin,2818,-331,,,,,,
+coin,2816,-325,,,,,,
+coin,2813,-316,,,,,,
+coin,2811,-311,,,,,,
+coin,2810,-307,,,,,,
+coin,2808,-302,,,,,,
+coin,2806,-298,,,,,,
+coin,2804,-294,,,,,,
+coin,2803,-290,,,,,,
+coin,2808,-309,,,,,,
+coin,2811,-311,,,,,,
+coin,2815,-314,,,,,,
+coin,2822,-314,,,,,,
+coin,2827,-314,,,,,,
+coin,2829,-314,,,,,,
+coin,2833,-311,,,,,,
+coin,2838,-306,,,,,,
+coin,2839,-301,,,,,,
+coin,2840,-296,,,,,,
+coin,2838,-293,,,,,,
+coin,2836,-289,,,,,,
+coin,2834,-286,,,,,,
+coin,2833,-285,,,,,,
+coin,2887,-308,,,,,,
+coin,2883,-308,,,,,,
+coin,2880,-306,,,,,,
+coin,2877,-302,,,,,,
+coin,2875,-295,,,,,,
+coin,2875,-291,,,,,,
+coin,2877,-287,,,,,,
+coin,2878,-285,,,,,,
+coin,2883,-284,,,,,,
+coin,2892,-284,,,,,,
+coin,2896,-284,,,,,,
+coin,2897,-290,,,,,,
+coin,2895,-304,,,,,,
+coin,2897,-300,,,,,,
+coin,2900,-294,,,,,,
+coin,2904,-287,,,,,,
+coin,2910,-283,,,,,,
+coin,2913,-282,,,,,,
+coin,2941,-284,,,,,,
+coin,2944,-291,,,,,,
+coin,2947,-296,,,,,,
+coin,2952,-303,,,,,,
+coin,2959,-307,,,,,,
+coin,2963,-307,,,,,,
+coin,2973,-307,,,,,,
+coin,2977,-304,,,,,,
+coin,2980,-301,,,,,,
+coin,2980,-290,,,,,,
+coin,2980,-283,,,,,,
+coin,2978,-279,,,,,,
+coin,3031,-331,,,,,,
+coin,3030,-324,,,,,,
+coin,3028,-320,,,,,,
+coin,3026,-313,,,,,,
+coin,3023,-304,,,,,,
+coin,3021,-300,,,,,,
+coin,3020,-296,,,,,,
+coin,3017,-289,,,,,,
+coin,3015,-283,,,,,,
+coin,3014,-280,,,,,,
+coin,3012,-272,,,,,,
+coin,3029,-307,,,,,,
+coin,3036,-308,,,,,,
+coin,3043,-308,,,,,,
+coin,3054,-308,,,,,,
+coin,3060,-309,,,,,,
+coin,3030,-305,,,,,,
+coin,3033,-299,,,,,,
+coin,3042,-289,,,,,,
+coin,3044,-286,,,,,,
+coin,3049,-280,,,,,,
+coin,3054,-274,,,,,,
+coin,3125,-313,,,,,,
+coin,3121,-313,,,,,,
+coin,3110,-314,,,,,,
+coin,3103,-314,,,,,,
+coin,3100,-308,,,,,,
+coin,3099,-299,,,,,,
+coin,3103,-293,,,,,,
+coin,3112,-289,,,,,,
+coin,3121,-287,,,,,,
+coin,3125,-280,,,,,,
+coin,3123,-273,,,,,,
+coin,3117,-269,,,,,,
+coin,3112,-265,,,,,,
+coin,3106,-265,,,,,,
+coin,3101,-265,,,,,,
+coin,3099,-265,,,,,,
+platform,2800,3125,-250,-225,cyan,0,0,
+BGImage,BG7,,,,,,,
+1,,,,,,,,
+2
+player,418,304,1
+platform,342,570,342,380,red,0,0
+platform,570,608,266,380,red,0,0
+platform,608,646,266,380,red,0,0
+platform,646,760,342,380,red,0,0
+platform,836,874,342,380,red,0,0,True
+platform,1064,1102,342,380,red,0,0,True
+platform,1292,1330,342,380,red,0,0,True
+platform,1520,1558,342,380,red,0,0,True
+platform,1748,1786,342,380,red,0,0,True
+platform,2014,2052,342,380,red,0,0,True
+platform,2108,2162,335,353,green,0,0,True
+platform,2207,2243,299,317,green,0,0,True
+platform,2288,2333,245,281,green,0,0,True
+platform,2369,2432,173,209,green,0,0,True
+platform,2477,2549,110,146,green,0,0,True
+platform,2594,2675,20,56,green,0,0,True
+platform,2369,2441,-34,2,green,0,0,True
+platform,2198,2297,-88,-34,green,0,0,True
+platform,2004,2084,-119,-39,green,0,0
+SC Ground 2,2044,-79,1
+coin,524,321
+coin,544,261
+coin,564,241
+coin,604,221
+coin,644,241
+coin,664,281
+coin,684,301
+coin,704,301
+coin,724,281
+coin,744,261
+coin,764,241
+coin,804,261
+coin,824,281
+coin,824,301
+coin,884,321
+coin,904,261
+coin,944,261
+coin,984,241
+coin,1004,261
+coin,1024,281
+coin,1044,301
+coin,1104,321
+coin,1124,281
+coin,1144,261
+coin,1184,241
+coin,1184,241
+coin,1224,261
+coin,1244,261
+coin,1264,301
+coin,1284,301
+coin,1324,321
+coin,1344,261
+coin,1384,241
+coin,1404,221
+coin,1424,221
+coin,1464,241
+coin,1484,261
+coin,1504,281
+coin,1524,301
+coin,1564,321
+coin,1584,281
+coin,1624,241
+coin,1664,241
+coin,1704,241
+coin,1744,261
+coin,1744,301
+coin,1764,301
+coin,1784,321
+coin,1864,261
+coin,1904,241
+coin,1984,261
+coin,1984,281
+coin,2004,301
+coin,2044,301
+coin,2084,281
+coin,2144,301
+coin,2164,281
+coin,2204,241
+coin,2244,201
+coin,2304,181
+coin,2344,161
+coin,2384,101
+coin,2424,101
+coin,2484,81
+coin,2504,41
+coin,2584,21
+coin,2604,1
+coin,2624,-39
+coin,2544,-79
+coin,2504,-79
+coin,2424,-79
+coin,2384,-79
+coin,2284,-119
+coin,2244,-139
+coin,2144,-159
+coin,2104,-139
+coin,2064,-139
+sizeChange,1984,-139,-10
+sizeChange,1924,-139,-10
+sizeChange,1884,-139,-10
+sizeChange,1824,-139,-10
+platform,1544,1984,-99,81,orange,0,0
+sizeChange,1684,-139,10
+sizeChange,1664,-139,10
+sizeChange,1624,-139,10
+sizeChange,1584,-139,10
+SC Pyramid 2,1644,-9,1
+SC Pyramid 2,1724,-9,1
+SC Pyramid 2,1784,-29,1
+SC Mario,1304,-69,5
+SC Mario,1364,-69,5
+SC Mario,1364,11,5
+SC Mario,1304,11,5
+SC Mario,1244,11,5
+SC Mario,1244,-69,5
+SC Mario,1244,-149,5
+SC Mario,1304,-149,5
+SC Mario,1364,-149,5
+SC Mario,1424,-149,5
+SC Mario,1424,-69,5
+SC Mario,1424,11,5
+2
+3
+player,275,200,1
+movingPlatform,800,850,225,250,blue,800,1250,5
+movingPlatform,2365,2405,315,335,yellow,2365,2485,1
+platform,250,325,225,250,pink,0,0
+platform,375,400,225,250,green,0,0,True
+platform,525,550,225,250,green,0,0,True
+platform,675,750,225,250,pink,0,0,True
+turret,1125,100,FALSE
+turret,1125,425,FALSE
+platform,1075,1175,125,150,brown,0,0
+platform,1075,1175,375,400,brown,0,0
+platform,1385,1465,235,315,yellow,0,0
+platform,1465,1545,235,315,yellow,0,0
+platform,1545,1625,235,315,yellow,0,0
+platform,1625,1705,235,315,yellow,0,0
+platform,1705,1785,235,315,yellow,0,0
+SC Ground 1,1425,275,1
+SC Ground 1,1505,275,1
+SC Ground 1,1585,275,1
+SC Ground 1,1665,275,1
+SC Ground 1,1745,275,1
+SC Grass 3,1765,215,1
+SC Grass 3,1605,215,1
+SC Grass 3,1465,215,1
+SC Grass 1,1745,215,1
+SC Grass 1,1645,215,1
+SC Grass 1,1665,215,1
+SC Grass 1,1545,215,1
+SC Grass 1,1565,215,1
+SC Grass 1,1425,215,1
+SC Grass 1,1405,215,1
+SC Grass 1,1485,215,1
+SC Long Grass 1,1705,215,1
+SC Long Grass 1,1505,215,1
+SC Tree 3,1625,175,1
+SC Long Grass 1,1625,215,1
+SC Apple,1645,230,1
+textBox,1745,195,This is a test!
+platform,1722,1767,227,235,brown,0,0
+trampoline,1885,415
+platform,1865,1905,415,435,red,0,0
+lava,1785,2045,435,495
+platform,1765,1785,315,515,black,0,0
+platform,1785,2045,495,515,black,0,0
+platform,2045,2065,315,515,black,0,0
+platform,1945,2005,355,375,blue,0,0
+platform,2065,2365,315,335,blue,0,0
+jumpEnemy,2065,275,2065,2345,0.5
+level end,2405,2445,235,275,0,0
+coin,1785,195
+coin,1805,175
+coin,1845,175
+coin,1865,195
+coin,1885,235
+coin,1885,315
+coin,1885,395
+coin,1905,315
+coin,1945,275
+coin,1965,255
+coin,1985,295
+coin,1585,135
+coin,1645,115
+coin,1665,155
+coin,1585,95
+coin,1265,195
+coin,1205,195
+coin,1165,195
+coin,1105,195
+coin,1085,195
+coin,1025,195
+coin,965,195
+coin,925,195
+coin,885,195
+coin,825,195
+coin,385,295
+coin,545,295
+coin,545,275
+coin,545,315
+coin,525,295
+coin,525,315
+coin,525,275
+coin,565,275
+coin,565,295
+coin,565,315
+coin,405,315
+coin,405,295
+coin,405,275
+coin,385,275
+coin,365,275
+coin,365,315
+coin,385,315
+coin,365,295
+3
